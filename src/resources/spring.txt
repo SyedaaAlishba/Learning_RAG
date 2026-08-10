@@ -1,0 +1,3 @@
+Spring Boot is a Java framework.
+Spring Boot simplifies backend application development.
+Spring Boot can be used to create REST APIs.
